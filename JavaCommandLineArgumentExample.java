@@ -1,4 +1,4 @@
-public class JavaCommandLineArgumant {
+public class JavaCommandLineArgumentExample {
 
     // shatrudhan.web.developer
 
@@ -11,8 +11,8 @@ public class JavaCommandLineArgumant {
             /*
              * Run karne ki tarika
              * Compile karo:
-             * 1st - javac JavaCommandLineArgumant.java
-             * 2nd - java JavaCommandLineArgumant Hello World 123
+             * javac JavaCommandLineArgumantExample.java
+             * java JavaCommandLineArgumant Hello World 123
              * 
              * ⚠ Dhyaan rahe: java ke baad sirf class ka naam aata hai (file ka .java ya
              * .class extension nahi lagana).
