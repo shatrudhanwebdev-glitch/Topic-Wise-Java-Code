@@ -1,11 +1,14 @@
 package Comments;
 
-public class SingleLineComment {
+public class MultiLineComment {
 
     // shatrudhan.web.developer
 
     public static void main(String[] args) {
 
-        // This line is a single line
+        /*
+         * This line is a multi - line comment
+         */
     }
+
 }
