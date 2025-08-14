@@ -8,10 +8,10 @@ public class ScannerClassExample {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter 1st number : ");
+        System.out.print("Enter 1st number : ");
         int num1 = sc.nextInt();
 
-        System.out.println("Enter 2nd number : ");
+        System.out.print("Enter 2nd number : ");
         int num2 = sc.nextInt();
 
         int mult = num1 * num2;
