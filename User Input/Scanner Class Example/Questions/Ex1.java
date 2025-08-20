@@ -6,11 +6,9 @@ public class Ex1 {
 
     public static void main(String[] args) {
 
-        // WAP to take usere input of a imployee name, age, salary within Scanner Class.
-
         Scanner sc = new Scanner(System.in);
 
-        // input name, age, salary from user
+        // input from user
         System.out.print("Enter name : ");
         String name = sc.nextLine();
 
@@ -20,7 +18,7 @@ public class Ex1 {
         System.out.print("Enter salary : ");
         double salary = sc.nextDouble();
 
-        // final output
+        // final result
         System.out.println("Name of imployee : " + name);
         System.out.println("Age of imployee : " + age + " years ");
         System.out.println("Salary of imployee : " + salary);

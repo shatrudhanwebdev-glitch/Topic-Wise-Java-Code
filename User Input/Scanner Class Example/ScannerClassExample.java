@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class ScannerClassExample {
 
@@ -8,18 +8,19 @@ public class ScannerClassExample {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter 1st number : ");
+        // input from user
+        System.out.println("Enter num1 : ");
         int num1 = sc.nextInt();
 
-        System.out.print("Enter 2nd number : ");
+        System.out.println("Enter num2 : ");
         int num2 = sc.nextInt();
 
-        int mult = num1 * num2;
+        // sum of num1 and num2
+        int sum = num1 + num2;
 
-        System.out.println("Multiple of num1 and num2 = " + mult);
+        // final result
+        System.out.println("Sum of num1 and num2 = " + sum);
 
         sc.close();
-
     }
-
 }
