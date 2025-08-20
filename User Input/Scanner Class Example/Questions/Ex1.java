@@ -22,7 +22,7 @@ public class Ex1 {
 
         // final output
         System.out.println("Name of imployee : " + name);
-        System.out.println("Age of imployee : " + age);
+        System.out.println("Age of imployee : " + age + " years ");
         System.out.println("Salary of imployee : " + salary);
 
         sc.close();
