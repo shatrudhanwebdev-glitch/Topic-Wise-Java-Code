@@ -18,6 +18,8 @@ public class ScannerClassExample {
 
         System.out.println("Multiple of num1 and num2 = " + mult);
 
+        sc.close();
+
     }
 
 }

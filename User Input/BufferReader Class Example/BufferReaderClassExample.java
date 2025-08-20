@@ -10,10 +10,10 @@ public class BufferReaderClassExample {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        System.out.println("Enter 1st number : ");
+        System.out.print("Enter 1st number : ");
         int num1 = Integer.parseInt(br.readLine());
 
-        System.out.println("Enter 2nd number : ");
+        System.out.print("Enter 2nd number : ");
         int num2 = Integer.parseInt(br.readLine());
 
         int sum = num1 + num2;
