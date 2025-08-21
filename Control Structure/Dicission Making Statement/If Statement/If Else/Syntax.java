@@ -5,7 +5,10 @@ public class Syntax {
     public static void main(String[] args) {
 
         /*
-         * if (Conditon) {
+         * if(Condition) {
+         * code
+         * }
+         * else {
          * code
          * }
          */
