@@ -10,7 +10,7 @@ public class Ex2 {
         int sum = 0; // sum ko 0 se initiolize kiya hu.
         int averrage = 0; // averrage ko 0 se initiolize kiya hu.
 
-        for (int i = 0; i < arr.length; i++) { // i = 0 se i < arr.length (5) tak loop chlaya hu.
+        for (int i = 0; i < arr.length; i++) { 
             sum = sum + arr[i]; // har emelements ko sum se add karaya hu or sum sum me store karaya hu.
 
         }
