@@ -1,4 +1,4 @@
-public class Four {
+public class Serial2 {
 
     //shatrudhan.web.developer
 
